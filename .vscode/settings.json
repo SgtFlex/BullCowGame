@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"G:/Program Files/Epic Games/Unreal Projects/BullCowGame-starter-kit 4.25/.vs": true,
+		"G:/Program Files/Epic Games/Unreal Projects/BullCowGame-starter-kit 4.25/.vscode": true,
+		"G:/Program Files/Epic Games/Unreal Projects/BullCowGame-starter-kit 4.25/Content": true,
+		"G:/Program Files/Epic Games/Unreal Projects/BullCowGame-starter-kit 4.25/DerivedDataCache": true,
+		"G:/Program Files/Epic Games/Unreal Projects/BullCowGame-starter-kit 4.25/Intermediate": true,
+		"G:/Program Files/Epic Games/Unreal Projects/BullCowGame-starter-kit 4.25/Saved": true
+	}
+}
